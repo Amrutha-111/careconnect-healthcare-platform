@@ -1,0 +1,7 @@
+{
+  "name": "CareConnect",
+  "description": "Smart healthcare facility discovery, doctor directory, real-time queue tokens, appointment booking, and AI-powered facility matching assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
